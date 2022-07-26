@@ -1,0 +1,41 @@
+.container{
+	border: 1px groove hotpink;
+	height: 500px;
+	padding: 20px;
+
+
+}
+
+.div_img{
+	float: left;
+	border: 1px solid #333;
+	border-radius: 500px;
+	margin-left: 50px;
+
+
+}
+
+
+/*.div_img{
+	border: 1px solid #333;
+	border-radius: 400px;
+	margin-left: 50px;
+	float: left;
+
+}
+
+
+.div_img	{
+     border: 1px solid #333;
+     border-radius: 400px;
+	margin-left: 50px;
+	float: left;
+}
+
+.div_img{
+	border: 1px solid #333;
+	border-radius: 400px;
+	margin-left: 50px;
+	float: left;
+	
+}*/
